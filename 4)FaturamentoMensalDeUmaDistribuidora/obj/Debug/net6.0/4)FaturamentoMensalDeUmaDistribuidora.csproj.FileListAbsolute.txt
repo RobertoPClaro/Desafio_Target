@@ -1,0 +1,15 @@
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\bin\Debug\net6.0\4)FaturamentoMensalDeUmaDistribuidora.exe
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\bin\Debug\net6.0\4)FaturamentoMensalDeUmaDistribuidora.deps.json
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\bin\Debug\net6.0\4)FaturamentoMensalDeUmaDistribuidora.runtimeconfig.json
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\bin\Debug\net6.0\4)FaturamentoMensalDeUmaDistribuidora.dll
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\bin\Debug\net6.0\4)FaturamentoMensalDeUmaDistribuidora.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\obj\Debug\net6.0\4)FaturamentoMensalDeUmaDistribuidora.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\obj\Debug\net6.0\4)FaturamentoMensalDeUmaDistribuidora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\obj\Debug\net6.0\4)FaturamentoMensalDeUmaDistribuidora.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\obj\Debug\net6.0\4)FaturamentoMensalDeUmaDistribuidora.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\obj\Debug\net6.0\4)FaturamentoMensalDeUmaDistribuidora.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\obj\Debug\net6.0\4)FaturamentoMensalDeUmaDistribuidora.dll
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\obj\Debug\net6.0\refint\4)FaturamentoMensalDeUmaDistribuidora.dll
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\obj\Debug\net6.0\4)FaturamentoMensalDeUmaDistribuidora.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\obj\Debug\net6.0\4)FaturamentoMensalDeUmaDistribuidora.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\4)FaturamentoMensalDeUmaDistribuidora\obj\Debug\net6.0\ref\4)FaturamentoMensalDeUmaDistribuidora.dll

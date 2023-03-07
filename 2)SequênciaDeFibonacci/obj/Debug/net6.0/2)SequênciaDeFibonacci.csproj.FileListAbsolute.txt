@@ -1,0 +1,15 @@
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\bin\Debug\net6.0\2)SequênciaDeFibonacci.exe
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\bin\Debug\net6.0\2)SequênciaDeFibonacci.deps.json
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\bin\Debug\net6.0\2)SequênciaDeFibonacci.runtimeconfig.json
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\bin\Debug\net6.0\2)SequênciaDeFibonacci.dll
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\bin\Debug\net6.0\2)SequênciaDeFibonacci.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\obj\Debug\net6.0\2)SequênciaDeFibonacci.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\obj\Debug\net6.0\2)SequênciaDeFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\obj\Debug\net6.0\2)SequênciaDeFibonacci.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\obj\Debug\net6.0\2)SequênciaDeFibonacci.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\obj\Debug\net6.0\2)SequênciaDeFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\obj\Debug\net6.0\2)SequênciaDeFibonacci.dll
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\obj\Debug\net6.0\refint\2)SequênciaDeFibonacci.dll
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\obj\Debug\net6.0\2)SequênciaDeFibonacci.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\obj\Debug\net6.0\2)SequênciaDeFibonacci.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\2)SequênciaDeFibonacci\obj\Debug\net6.0\ref\2)SequênciaDeFibonacci.dll

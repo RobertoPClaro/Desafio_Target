@@ -1,0 +1,15 @@
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\bin\Debug\net6.0\5)InvertaOsCaracteresDeUmString.exe
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\bin\Debug\net6.0\5)InvertaOsCaracteresDeUmString.deps.json
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\bin\Debug\net6.0\5)InvertaOsCaracteresDeUmString.runtimeconfig.json
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\bin\Debug\net6.0\5)InvertaOsCaracteresDeUmString.dll
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\bin\Debug\net6.0\5)InvertaOsCaracteresDeUmString.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\obj\Debug\net6.0\5)InvertaOsCaracteresDeUmString.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\obj\Debug\net6.0\5)InvertaOsCaracteresDeUmString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\obj\Debug\net6.0\5)InvertaOsCaracteresDeUmString.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\obj\Debug\net6.0\5)InvertaOsCaracteresDeUmString.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\obj\Debug\net6.0\5)InvertaOsCaracteresDeUmString.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\obj\Debug\net6.0\5)InvertaOsCaracteresDeUmString.dll
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\obj\Debug\net6.0\refint\5)InvertaOsCaracteresDeUmString.dll
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\obj\Debug\net6.0\5)InvertaOsCaracteresDeUmString.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\obj\Debug\net6.0\5)InvertaOsCaracteresDeUmString.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\5)InvertaOsCaracteresDeUmString\obj\Debug\net6.0\ref\5)InvertaOsCaracteresDeUmString.dll

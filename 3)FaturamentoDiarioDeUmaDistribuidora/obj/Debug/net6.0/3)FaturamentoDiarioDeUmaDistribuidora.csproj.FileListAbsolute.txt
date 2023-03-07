@@ -1,0 +1,17 @@
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\bin\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.exe
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\bin\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.deps.json
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\bin\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.runtimeconfig.json
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\bin\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.dll
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\bin\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\obj\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.csproj.AssemblyReference.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\obj\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\obj\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.AssemblyInfoInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\obj\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.AssemblyInfo.cs
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\obj\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.csproj.CoreCompileInputs.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\obj\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.csproj.CopyComplete
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\obj\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.dll
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\obj\Debug\net6.0\refint\3)FaturamentoDiarioDeUmaDistribuidora.dll
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\obj\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.pdb
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\obj\Debug\net6.0\3)FaturamentoDiarioDeUmaDistribuidora.genruntimeconfig.cache
+C:\Users\rober\OneDrive\Área de Trabalho\DesafioTargetSistemas\Desafio_Target\3)FaturamentoDiarioDeUmaDistribuidora\obj\Debug\net6.0\ref\3)FaturamentoDiarioDeUmaDistribuidora.dll

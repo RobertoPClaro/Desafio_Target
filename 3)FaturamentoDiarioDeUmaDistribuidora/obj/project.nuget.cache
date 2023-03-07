@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P3zdXiZGqPBZqpz/wviApGxM1OiKh8fce/Q6aiGd9AE0t1oA9nnnCQTWL8QHIFnylXR2kqQjMV7zI01eu4GFFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rober\\OneDrive\\Área de Trabalho\\DesafioTargetSistemas\\Desafio_Target\\3)FaturamentoDiarioDeUmaDistribuidora\\3)FaturamentoDiarioDeUmaDistribuidora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
